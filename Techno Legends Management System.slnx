@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Techno Legends Management System.Shared/Techno Legends Management System.Shared.csproj" />
+  <Project Path="Techno Legends Management System.Web/Techno Legends Management System.Web.csproj" />
+  <Project Path="Techno Legends Management System/Techno Legends Management System.csproj" />
+</Solution>
